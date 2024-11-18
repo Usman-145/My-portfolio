@@ -93,7 +93,7 @@ export default function Home() {
             {
               icon: RocketIcon,
               title: "Performance",
-              description: "Building ultra-fast, scalable applications optimized for speed, efficiency, and exceptional user experiences across all platforms."
+              description: "Creating ultra-fast, scalable apps optimized for speed, efficiency, and seamless user experiences across all devices."
             }
           ].map((feature, index) => (
             <motion.div

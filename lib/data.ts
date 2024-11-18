@@ -25,7 +25,7 @@ export const projects = [
     title: "Portfolio Analytics",
     description: "Dashboard for tracking portfolio performance and analytics",
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop&q=60",
-    link: "#",
+    link: "https://my-portfolio-pi-three-37.vercel.app/",
     technologies: ["React", "React","TailwindCSS"],
   },
 ];
